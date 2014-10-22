@@ -21,7 +21,7 @@ public class Xinbo09Activity extends Activity {
 	public void btn_gotonext(View v) {
 		Intent intent = new Intent(this,WonderActivity.class);
 		startActivity(intent);//nnnn
-		// 鍏抽棴顶顶顶顶
+		// 鍏抽棴111
 		finish();
 	}
 	

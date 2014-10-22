@@ -13,7 +13,7 @@ public class HuChunJieActivity extends Activity {
 
 	/**
 	 * sadfasdf21212121
-	 * 
+	 * ddddd
 	 * @param v
 	 */
 	public void xinbo_btn(View v) {

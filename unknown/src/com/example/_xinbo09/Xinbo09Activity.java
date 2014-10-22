@@ -21,7 +21,7 @@ public class Xinbo09Activity extends Activity {
 	public void btn_gotonext(View v) {
 		Intent intent = new Intent(this,WonderActivity.class);
 		startActivity(intent);//nnnn
-		// 关闭
+		// 鍏抽棴顶顶顶顶
 		finish();
 	}
 	
@@ -110,7 +110,7 @@ public class Xinbo09Activity extends Activity {
 	private ImageView imageView;
 	public void show_anim(View v) {
 		
-		new Thread(new Runnable() {  //显示逐帧。方法有Thread、Handle两个。
+		new Thread(new Runnable() {  //鏄剧ず閫愬抚銆傛柟娉曟湁Thread銆丠andle涓や釜銆�
 
 			@Override
 			public void run() {
